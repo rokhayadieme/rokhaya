@@ -1,0 +1,60 @@
+.menu {
+display: flex;
+justify-content: space-between;
+}
+.menu ul {
+    display: flex;
+}
+.menu ul li{
+    padding: 100px;
+    list-style: none;
+}
+.divorange{
+    background-color:orange ;
+    height: 8vh;
+    color: white;
+    text-align: center;
+}
+.divblue{
+    background-color: ;
+    height: 80vh;
+    background-image:url(logo.png.png) ;
+    background-repeat: no-repeat;
+
+}
+.divblue div {
+    background-image:url(logo.png.png) ;
+    background-repeat: no-repeat;
+    height: 300px;
+    margin-left:45 rem;
+}
+.formulaire{
+    height: 540px;
+    width: 40%;
+    background-color: white;
+    position: absolute;
+    top: 22%;
+    margin-left: 5%;
+    border-radius: 0,5%;
+}
+.formulaire h3, p{
+    text-align: center;
+}
+.formulaire h3{
+color: #034f89;
+}
+.input-texte{
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 30px;
+}
+.formulaire form{
+    margin-left: 2%;
+}
+button{
+    background-color: #3191e4;
+    color: white;
+    margin-left: 38%;
+}
+
